@@ -48,4 +48,4 @@ Lister tous Opération
 http://localhost:8080/operations
 
 # Base de données : 
-J'ai partagé le script de la base de donnés pour populer la base de données en guise de test
+J'ai partagé le script de la base de donnés mysql pour populer la base de données en guise de test
